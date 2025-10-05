@@ -1,0 +1,188 @@
+{
+  "en": {
+    "header": {
+      "name": "Ahmad Jaber Ashkanani",
+      "title": "Educational Teacher - Sports Director - International Lecturer - FIFA Sports Agent",
+      "imageUrl": "https://i.imgur.com/2s32S0i.jpeg",
+      "contact": {
+        "phone": "0096599891858",
+        "email": "a7made16@gmail.com",
+        "location": "Kuwait"
+      },
+      "socials": {
+        "instagram": "https://www.instagram.com",
+        "twitter": "https://www.twitter.com"
+      }
+    },
+    "aboutMe": {
+      "title": "About Me",
+      "content": "A dedicated professional with extensive experience in sports management, education, and athlete representation. Proven ability to lead teams, develop talent, and manage sports programs at national and international levels. Committed to fostering athletic and personal growth."
+    },
+    "qualifications": {
+        "title": "Qualifications",
+        "items": [
+            { "title": "Educational Instructor", "details": "3 years in middle school and 3 years in high school. Currently serving as a supervisor of wings, a general supervisor, and head of the Arts Education Department." },
+            { "title": "Bachelor's Degree in Art Education", "details": "From the General Authority for Applied Education and Training, with distinction." },
+            { "title": "Internationally Certified Lecturer", "details": "Certified by the International Beta, the Kuwaiti International Institute, and the General Authority for Applied Education and Training in educational and sports management." },
+            { "title": "Diploma in Sports Law and Arbitration", "details": "Specializing in the arbitration of sports disputes." }
+        ]
+    },
+    "sportsCertificates": {
+        "title": "Sports Certificates",
+        "items": [
+            { "title": "Administrative Certificates", "period": "Various", "details": ["From the Kuwait Football Association, FIFA, and AFC."] },
+            { "title": "Level One Administrative Certificate", "period": "2015", "details": ["Achieved with a score of 95%."] },
+            { "title": "Level Two Administrative Certificate", "period": "2017", "details": [] },
+            { "title": "Level Three Managerial Certificate", "period": "2018", "details": [] },
+            { "title": "Football Law (Arbitration) Certificate", "period": "2018", "details": [] },
+            { "title": "Level C Second Batch Sports Managers Certificate", "period": "2019", "details": [] },
+            { "title": "Level B Sports Managers Certificate", "period": "2020", "details": [] },
+            { "title": "Level A Sports Managers Certificate", "period": "2022", "details": [] },
+            { "title": "Level One Sports Injuries Certificate", "period": "", "details": [] },
+            { "title": "International Olympic Games Certificate", "period": "", "details": ["From the Qatari Academy."] },
+            { "title": "Sports Rehabilitation and Injury Diagnosis Certificate", "period": "", "details": ["From Dr. Mohammed Al-Dosari."] }
+        ]
+    },
+    "trainingCourses": {
+        "title": "Training Courses",
+        "items": [
+            "Diploma in Sports Injuries from the Qatari Sports Academy.",
+            "Course on Olympic Culture in Sports Institutions.",
+            "Course on Psychological Motivation in Sports.",
+            "Course on Methods and Management of Player Injuries.",
+            "Course on Healthy Behaviors and Nutrition for Athletes.",
+            "Course on Sports Psychology.",
+            "Course for Professional Managers in the Kuwait Football Association.",
+            "Diploma Program for Sports Contracts Experts, accredited by the French Union of Legal Advisors.",
+            "Sports Institutions Governance Course - Abdullah Al Salem Center for Leadership Development.",
+            "The Art of Public Speaking and Influence Course."
+        ]
+    },
+    "experiences": {
+        "title": "Experiences - Clubs & Elections",
+        "items": [
+            { "title": "Chairman, Organizing Committee for the Gulf Cup Championship", "period": "2024-2025", "details": ["Leading the organization for Gulf 26 in Kuwait."] },
+            { "title": "Administrative Manager, Kuwaiti National Beach Soccer Team", "period": "2022-2023", "details": ["Managed all administrative aspects of the national team."] },
+            { "title": "The Arab Sporting Club", "period": "2018-2019", "details": ["Administrative for the U-13 team, secured first place in the Kuwaiti Football Federation Cup 2019-2020.", "Manager of the Yellow team for the U-13 category."] },
+            { "title": "Kuwait Under-16 National Team Coach", "period": "2017-2018", "details": ["Participated in a training camp in Qatar with the national team."] },
+            { "title": "The Arab Sports Club", "period": "2014-2015", "details": ["Administrative of the grass football team for 4 years.", "Winner of the Best Administrative Award in the Sporty World Championship."] },
+            { "title": "Kazma Sporting Club", "period": "2006-2013", "details": ["Handball goalkeeper, won third place in the Union Cup Championship."] }
+        ]
+    },
+    "universityTeams": {
+        "title": "University Teams and Educational Camps",
+        "items": [
+            "Manager of the Kuwait School Union and Higher Education Futsal team (2023).",
+            "Scout for the School Union and Higher Education team (2022-2024).",
+            "Director of Beach Football at the Ministry of Education for the 2021 season.",
+            "Achieved first place in the 8th Gulf Sports Championship for universities in Kuwait.",
+            "Achieved second place in the closed Arab Universities Championship in Abu Dhabi (2019).",
+            "Management of university teams for futsal and beach football for the year (2018)."
+        ]
+    },
+    "gallery": {
+      "title": "Gallery",
+      "items": [
+        { "type": "photo", "thumbnailUrl": "https://i.imgur.com/3YwQk5h.jpeg", "fullUrl": "https://i.imgur.com/3YwQk5h.jpeg", "title": "In Action" },
+        { "type": "photo", "thumbnailUrl": "https://i.imgur.com/9l2hW5g.jpeg", "fullUrl": "https://i.imgur.com/9l2hW5g.jpeg", "title": "Team Meeting" },
+        { "type": "video", "thumbnailUrl": "https://i.imgur.com/sC5mf9g.jpeg", "fullUrl": "https://www.w3schools.com/html/mov_bbb.mp4", "title": "Training Highlights" },
+        { "type": "photo", "thumbnailUrl": "https://i.imgur.com/8Q9j0tN.jpeg", "fullUrl": "https://i.imgur.com/8Q9j0tN.jpeg", "title": "Award Ceremony" },
+        { "type": "photo", "thumbnailUrl": "https://i.imgur.com/kG5iJ8V.jpeg", "fullUrl": "https://i.imgur.com/kG5iJ8V.jpeg", "title": "Press Conference" },
+        { "type": "video", "thumbnailUrl": "https://i.imgur.com/E7p5f7M.jpeg", "fullUrl": "https://www.w3schools.com/html/mov_bbb.mp4", "title": "Match Day" }
+      ]
+    }
+  },
+  "ar": {
+    "header": {
+      "name": "أحمد جابر أشكناني",
+      "title": "معلم تربوي - مدير رياضي - محاضر دولي - وكيل رياضي FIFA",
+      "imageUrl": "https://i.imgur.com/2s32S0i.jpeg",
+      "contact": {
+        "phone": "0096599891858",
+        "email": "a7made16@gmail.com",
+        "location": "الكويت"
+      },
+      "socials": {
+        "instagram": "https://www.instagram.com",
+        "twitter": "https://www.twitter.com"
+      }
+    },
+    "aboutMe": {
+      "title": "نبذة عني",
+      "content": "محترف متخصص يتمتع بخبرة واسعة في الإدارة الرياضية والتعليم وتمثيل الرياضيين. لديه قدرة مثبتة على قيادة الفرق وتطوير المواهب وإدارة البرامج الرياضية على المستويين الوطني والدولي. ملتزم بتعزيز النمو الرياضي والشخصي."
+    },
+    "qualifications": {
+        "title": "المؤهلات",
+        "items": [
+            { "title": "مدرس تربوي", "details": "3 سنوات في المرحلة المتوسطة و 3 سنوات في المرحلة الثانوية. حاليًا مشرف أجنحة، ومشرف عام، ورئيس قسم التربية الفنية." },
+            { "title": "بكالوريوس في التربية الفنية", "details": "من الهيئة العامة للتعليم التطبيقي والتدريب، بتقدير امتياز." },
+            { "title": "محاضر دولي معتمد", "details": "معتمد من بيتا الدولية، والمعهد الكويتي الدولي، والهيئة العامة للتعليم التطبيقي والتدريب في الإدارة التربوية والرياضية." },
+            { "title": "دبلوم في القانون الرياضي والتحكيم", "details": "متخصص في تحكيم المنازعات الرياضية." }
+        ]
+    },
+    "sportsCertificates": {
+        "title": "الشهادات الرياضية",
+        "items": [
+            { "title": "شهادات إدارية", "period": "متنوع", "details": ["من الاتحاد الكويتي لكرة القدم، والفيفا، والاتحاد الآسيوي."] },
+            { "title": "شهادة إدارية مستوى أول", "period": "2015", "details": ["بتقدير 95٪."] },
+            { "title": "شهادة إدارية مستوى ثاني", "period": "2017", "details": [] },
+            { "title": "شهادة إدارية مستوى ثالث", "period": "2018", "details": [] },
+            { "title": "شهادة قانون كرة القدم (تحكيم)", "period": "2018", "details": [] },
+            { "title": "شهادة مدراء رياضيين مستوى C دفعة ثانية", "period": "2019", "details": [] },
+            { "title": "شهادة مدراء رياضيين مستوى B", "period": "2020", "details": [] },
+            { "title": "شهادة مدراء رياضيين مستوى A", "period": "2022", "details": [] },
+            { "title": "شهادة إصابات رياضية مستوى أول", "period": "", "details": [] },
+            { "title": "شهادة الألعاب الأولمبية الدولية", "period": "", "details": ["من الأكاديمية القطرية."] },
+            { "title": "شهادة تأهيل رياضي وتشخيص إصابات", "period": "", "details": ["من د. محمد الدوسري."] }
+        ]
+    },
+    "trainingCourses": {
+        "title": "الدورات التدريبية",
+        "items": [
+            "دبلوم في الإصابات الرياضية من الأكاديمية الرياضية القطرية.",
+            "دورة في الثقافة الأولمبية في المؤسسات الرياضية.",
+            "دورة في التحفيز النفسي في الرياضة.",
+            "دورة في طرق وإدارة إصابات اللاعبين.",
+            "دورة في السلوكيات الصحية والتغذية للرياضيين.",
+            "دورة في علم النفس الرياضي.",
+            "دورة للمديرين المحترفين في الاتحاد الكويتي لكرة القدم.",
+            "برنامج دبلوم خبراء العقود الرياضية، معتمد من الاتحاد الفرنسي للمستشارين القانونيين.",
+            "دورة حوكمة المؤسسات الرياضية - مركز عبد الله السالم لتطوير القيادات.",
+            "دورة فن الإلقاء والتأثير."
+        ]
+    },
+    "experiences": {
+        "title": "الخبرات - الأندية والانتخابات",
+        "items": [
+            { "title": "رئيس اللجنة المنظمة لبطولة كأس الخليج", "period": "2024-2025", "details": ["قيادة تنظيم خليجي 26 في الكويت."] },
+            { "title": "مدير إداري، منتخب الكويت الوطني لكرة القدم الشاطئية", "period": "2022-2023", "details": ["إدارة جميع الجوانب الإدارية للمنتخب الوطني."] },
+            { "title": "النادي العربي الرياضي", "period": "2018-2019", "details": ["إداري لفريق تحت 13 سنة، حقق المركز الأول في كأس الاتحاد الكويتي لكرة القدم 2019-2020.", "مدير الفريق الأصفر لفئة تحت 13 سنة."] },
+            { "title": "مدرب منتخب الكويت تحت 16 سنة", "period": "2017-2018", "details": ["شارك في معسكر تدريبي في قطر مع المنتخب الوطني."] },
+            { "title": "النادي العربي الرياضي", "period": "2014-2015", "details": ["إداري لفريق كرة القدم العشبي لمدة 4 سنوات.", "الفائز بجائزة أفضل إداري في بطولة سبورتي العالمية."] },
+            { "title": "نادي كاظمة الرياضي", "period": "2006-2013", "details": ["حارس مرمى كرة يد، فاز بالمركز الثالث في بطولة كأس الاتحاد."] }
+        ]
+    },
+    "universityTeams": {
+        "title": "الفرق الجامعية والمعسكرات التعليمية",
+        "items": [
+            "مدير فريق اتحاد المدارس والتعليم العالي لكرة الصالات (2023).",
+            "كشاف لفريق اتحاد المدارس والتعليم العالي (2022-2024).",
+            "مدير كرة القدم الشاطئية بوزارة التربية لموسم 2021.",
+            "حقق المركز الأول في البطولة الرياضية الخليجية الثامنة للجامعات في الكويت.",
+            "حقق المركز الثاني في بطولة الجامعات العربية المغلقة في أبو ظبي (2019).",
+            "إدارة فرق الجامعة لكرة الصالات وكرة القدم الشاطئية لعام (2018)."
+        ]
+    },
+    "gallery": {
+      "title": "المعرض",
+      "items": [
+        { "type": "photo", "thumbnailUrl": "https://i.imgur.com/3YwQk5h.jpeg", "fullUrl": "https://i.imgur.com/3YwQk5h.jpeg", "title": "أثناء العمل" },
+        { "type": "photo", "thumbnailUrl": "https://i.imgur.com/9l2hW5g.jpeg", "fullUrl": "https://i.imgur.com/9l2hW5g.jpeg", "title": "اجتماع الفريق" },
+        { "type": "video", "thumbnailUrl": "https://i.imgur.com/sC5mf9g.jpeg", "fullUrl": "https://www.w3schools.com/html/mov_bbb.mp4", "title": "أبرز لقطات التدريب" },
+        { "type": "photo", "thumbnailUrl": "https://i.imgur.com/8Q9j0tN.jpeg", "fullUrl": "https://i.imgur.com/8Q9j0tN.jpeg", "title": "حفل توزيع الجوائز" },
+        { "type": "photo", "thumbnailUrl": "https://i.imgur.com/kG5iJ8V.jpeg", "fullUrl": "https://i.imgur.com/kG5iJ8V.jpeg", "title": "مؤتمر صحفي" },
+        { "type": "video", "thumbnailUrl": "https://i.imgur.com/E7p5f7M.jpeg", "fullUrl": "https://www.w3schools.com/html/mov_bbb.mp4", "title": "يوم المباراة" }
+      ]
+    }
+  }
+}

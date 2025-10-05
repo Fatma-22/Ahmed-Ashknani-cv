@@ -31,14 +31,12 @@ const Header = ({ data }: HeaderProps) => {
     if (!data) return null;
     return (
         <header 
-            className="min-h-screen flex items-center justify-center text-white p-4 relative pt-20 bg-cover bg-center"
+            className={`min-h-screen flex items-center justify-center text-white p-4 relative pt-20 header-lazy-bg ${bgImageLoaded ? 'loaded' : ''}`}
             style={{ 
-                backgroundImage: bgImageLoaded ? `url('${backgroundImageUrl}')` : 'none',
-                backgroundColor: '#18181b', // Fallback background color
-                transition: 'background-image 1s ease-in-out'
+                '--bg-image': `url('${backgroundImageUrl}')`
             }}
         >
-             <div className="absolute inset-0 bg-black/60"></div>
+             <div className="absolute inset-0 bg-black/60 z-[1]"></div>
             <div className="text-center z-10">
                 <motion.div initial={{ scale: 0.5, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.7, type: 'spring' }}>
                     <img loading="lazy" src={data.imageUrl} alt={data.name} className="w-40 h-40 rounded-full mx-auto mb-6 border-4 border-amber-400 shadow-lg object-cover" />

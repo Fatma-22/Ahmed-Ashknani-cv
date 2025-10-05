@@ -49,7 +49,7 @@ const Navbar = ({ navLinks, lang, setLang, name, imageUrl }: NavbarProps) => {
                 <div className="max-w-6xl mx-auto flex items-center justify-between h-20">
                     <div className="flex items-center gap-x-8">
                         <a href="#" aria-label="Back to top">
-                            <img src={imageUrl} alt={name} className="w-12 h-12 rounded-full object-cover border-2 border-amber-400 hover:scale-105 transition-transform duration-300" />
+                            <img loading="lazy" src={imageUrl} alt={name} className="w-12 h-12 rounded-full object-cover border-2 border-amber-400 hover:scale-105 transition-transform duration-300" />
                         </a>
                         {/* Desktop Menu */}
                         <ul className="hidden md:flex items-center space-x-2">

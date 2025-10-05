@@ -55,3 +55,22 @@ body {
 h1, h2, h3, p, a, span, li, svg {
     transition: color 0.4s ease-out, fill 0.4s ease-out;
 }
+
+.header-lazy-bg {
+    background-color: #18181b; /* Fallback */
+}
+
+.header-lazy-bg::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: var(--bg-image);
+    background-size: cover;
+    background-position: center;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.header-lazy-bg.loaded::before {
+    opacity: 1;
+}
