@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #18181b; /* zinc-900 */
+}
+
+
+[lang="ar"] {
+    font-family: 'Tajawal', sans-serif;
+}
+
+[lang="en"] {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Custom scrollbar for a more modern look */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #27272a; /* zinc-800 */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #f59e0b; /* amber-500 */
+    border-radius: 10px;
+    border: 2px solid #27272a; /* zinc-800 */
+}
+
+.creative-card {
+    background: #27272a; /* zinc-800 */
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 16px;
+    border: 1px solid rgba(245, 158, 11, 0.2); /* Subtle gold border */
+    transition: all 0.3s ease-out;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.creative-card:hover {
+    transform: translateY(-5px);
+    border-color: rgba(245, 158, 11, 0.5);
+    box-shadow: 0 10px 40px rgba(245, 158, 11, 0.15); /* Gold glow */
+}
+
+/* Smooth color transitions for theme change */
+h1, h2, h3, p, a, span, li, svg {
+    transition: color 0.4s ease-out, fill 0.4s ease-out;
+}
